@@ -1,3 +1,9 @@
+---
+tags:
+  - focus
+  - run
+---
+
 # Running focus
 
 *Living document: update goals, mistakes and progress as they change. Last updated 2026-11-17.*

@@ -1,0 +1,87 @@
+site_name: Workout Journal
+site_description: Running and cycling journal with honest session critiques
+site_url: https://larjun.github.io/Workout-Journal/
+repo_url: https://github.com/Larjun/Workout-Journal
+repo_name: Larjun/Workout-Journal
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  icon:
+    logo: material/run-fast
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.action.edit
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Focus:
+      - Running: focus/running.md
+      - Cycling: focus/cycling.md
+  - Sessions:
+      - 2026-11-17 · Run · Continuous 3 km: sessions/2026/2026-11-17-run.md
+      - 2026-11-15 · Ride · Thooral 25: sessions/2026/2026-11-15-ride.md
+      - 2026-11-14 · Ride · 20 km Zone 2: sessions/2026/2026-11-14-ride.md
+      - 2026-11-13 · Run · 2 × 2 km: sessions/2026/2026-11-13-run.md
+      - 2026-11-12 · Ride · First Indian roads: sessions/2026/2026-11-12-ride.md
+      - 2026-11-11 · Run · 2 × 2 km: sessions/2026/2026-11-11-run.md
+      - 2026-11-07 · Ride · Morning ride: sessions/2026/2026-11-07-ride.md
+      - 2026-11-06 · Run · 2 × 1.75 km: sessions/2026/2026-11-06-run.md
+      - 2026-11-04 · Run · 2 × 1.5 km: sessions/2026/2026-11-04-run.md
+      - 2026-11-03 · Run · Continuous 2 km: sessions/2026/2026-11-03-run.md
+  - Weekly:
+      - 2026-W46: weekly/2026-W46.md
+      - 2026-W45: weekly/2026-W45.md
+  - Tags: tags.md
