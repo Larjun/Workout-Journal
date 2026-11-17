@@ -1,0 +1,100 @@
+/* Palette built around #00ffae (mint).
+   Tints:  #b3ffe7  #66ffce
+   Base:   #00ffae
+   Shades: #00cc8b  #009968  #007a55  #00664a  #003d2a  #00261a
+   Complement (hue +180°): #ff0051 → used sparingly for hover/highlights as #e6004a / #ff4d85 */
+
+:root {
+  --mint-50: #e6fff7;
+  --mint-100: #b3ffe7;
+  --mint-300: #66ffce;
+  --mint-500: #00ffae;
+  --mint-600: #00cc8b;
+  --mint-700: #009968;
+  --mint-750: #007a55;
+  --mint-800: #00664a;
+  --mint-900: #003d2a;
+  --mint-950: #00261a;
+  --complement: #e6004a;
+  --complement-light: #ff4d85;
+}
+
+/* Light scheme: bright mint header, deep green ink */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--mint-500);
+  --md-primary-fg-color--light: var(--mint-300);
+  --md-primary-fg-color--dark: var(--mint-600);
+  --md-primary-bg-color: var(--mint-950);
+  --md-primary-bg-color--light: rgba(0, 38, 26, 0.7);
+  --md-accent-fg-color: var(--complement);
+  --md-accent-fg-color--transparent: rgba(230, 0, 74, 0.1);
+  --md-typeset-a-color: var(--mint-750);
+  --md-default-fg-color--light: rgba(0, 38, 26, 0.6);
+}
+
+/* Dark scheme: deep green header, mint ink, green-tinted background */
+[data-md-color-scheme="slate"] {
+  --md-hue: 160;
+  --md-primary-fg-color: var(--mint-900);
+  --md-primary-fg-color--light: var(--mint-800);
+  --md-primary-fg-color--dark: var(--mint-950);
+  --md-primary-bg-color: var(--mint-500);
+  --md-primary-bg-color--light: rgba(0, 255, 174, 0.7);
+  --md-accent-fg-color: var(--complement-light);
+  --md-accent-fg-color--transparent: rgba(255, 77, 133, 0.12);
+  --md-typeset-a-color: var(--mint-500);
+}
+
+/* Headings */
+[data-md-color-scheme="default"] .md-typeset h1 { color: var(--mint-900); font-weight: 700; }
+[data-md-color-scheme="default"] .md-typeset h2 { color: var(--mint-800); }
+[data-md-color-scheme="default"] .md-typeset h3 { color: var(--mint-750); }
+[data-md-color-scheme="slate"] .md-typeset h1 { color: var(--mint-500); font-weight: 700; }
+[data-md-color-scheme="slate"] .md-typeset h2 { color: var(--mint-300); }
+[data-md-color-scheme="slate"] .md-typeset h3 { color: var(--mint-100); }
+
+.md-typeset h2 {
+  border-bottom: 2px solid var(--mint-500);
+  padding-bottom: 0.2em;
+}
+
+/* Tables: mint header row, subtle zebra striping */
+.md-typeset table:not([class]) th {
+  background-color: var(--mint-500);
+  color: var(--mint-950);
+}
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background-color: var(--mint-900);
+  color: var(--mint-500);
+}
+[data-md-color-scheme="default"] .md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: var(--mint-50);
+}
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: rgba(0, 255, 174, 0.05);
+}
+.md-typeset table:not([class]) {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+/* Bold text gets a gentle mint emphasis */
+[data-md-color-scheme="default"] .md-typeset strong { color: var(--mint-900); }
+[data-md-color-scheme="slate"] .md-typeset strong { color: var(--mint-100); }
+
+/* Links: mint, complement on hover */
+.md-typeset a:hover { color: var(--md-accent-fg-color); }
+
+/* Tags */
+.md-typeset .md-tag {
+  background-color: var(--mint-100);
+  color: var(--mint-950);
+}
+[data-md-color-scheme="slate"] .md-typeset .md-tag {
+  background-color: var(--mint-900);
+  color: var(--mint-500);
+}
+
+/* Navigation: active item */
+[data-md-color-scheme="default"] .md-nav__link--active { color: var(--mint-750); font-weight: 600; }
+[data-md-color-scheme="slate"] .md-nav__link--active { color: var(--mint-500); font-weight: 600; }
