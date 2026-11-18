@@ -7,7 +7,7 @@ Sessions are analysed with Claude (using my Strava data) and written up here as 
 ## Current focus
 
 ### Running: Runna "New To Running" plan, week 7 of 8
-1. **Cadence:** hold 148 spm for the whole run (currently ~146 in the main effort, up from ~138–140). Use a metronome or 148 BPM music.
+1. **Cadence:** hold 148 spm for the whole run (stuck at ~146 on 11-17 and 11-18). Set the metronome to 152 to land at 148–150.
 2. **Effort cap:** keep easy-run HR under 160, and under 165 late in the run. Walk 20–30 s if over 165.
 3. **Pacing:** never start faster than I finish. My default "own pace" is still too hard.
 
@@ -22,6 +22,7 @@ Details: [Running focus](focus/running.md) · [Cycling focus](focus/cycling.md) 
 
 | Date | Type | Session | Verdict |
 |---|---|---|---|
+| 2026-11-18 | Run | [Continuous 3.75 km](sessions/2026/2026-11-18-run.md) | HR cap held (92% under 160, peak 166); cadence stuck at ~146 |
 | 2026-11-17 | Run | [Continuous 3 km](sessions/2026/2026-11-17-run.md) | First continuous 3 km; HR drifted to 170, extra hard 640 m home |
 | 2026-11-15 | Ride | [Race against Diabetes – Thooral 25](sessions/2026/2026-11-15-ride.md) | Event: 27 km hard (HR 162), very even pacing |
 | 2026-11-14 | Ride | [First medium-distance ride in Chennai](sessions/2026/2026-11-14-ride.md) | 20 km in Zone 2, no fade. Best base ride yet |
