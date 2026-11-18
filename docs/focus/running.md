@@ -19,7 +19,7 @@ tags:
 |---|---|---|
 | Cadence | 148 spm for the whole run | Stuck at ~146 (11-17, 11-18); only ~29% of 11-18 at 148+. Metronome now at 152 |
 | Easy-run HR | Under 160; under 165 late in the run | ✅ 11-18: 92% under 160, peak 166, drift only +12 bpm |
-| Pacing | Never start faster than I finish | First km still too quick (11-18: ~10:36 then ~13:10–13:44) |
+| Pacing | Steady effort, no surges | 11-18: yo-yo between ~10:00 and ~14:00/km every 0.5–0.8 km |
 
 ## Rules for easy runs
 - Conversational pace means HR, not pace. Slow down or walk to stay under the cap.
