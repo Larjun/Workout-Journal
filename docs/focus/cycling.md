@@ -6,7 +6,7 @@ tags:
 
 # Cycling focus
 
-*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-17.*
+*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-19.*
 
 ## Context
 - Lifelong cyclist. Rode a road bike in the US (Oct 2025 – Sep 2026, 38 rides, ~900 km).
@@ -17,8 +17,8 @@ tags:
 ## Active goals
 | Goal | Target | Status |
 |---|---|---|
-| Weekly long ride | Zone 2, +~10 min/week toward 90–120 min | 72 min at HR 140 on 11-14 ✅ |
-| Climb control | Flyover and bridge peaks under ~155 | Peaked at 169 on the Anna University flyover (11-14) |
+| Weekly long ride | Zone 2, +~10 min/week toward 90–120 min | 72 min @140 (11-14) → 76 min @137, 98% Z2 (11-19) ✅ |
+| Climb control | Flyover and bridge peaks under ~155 | Anna University flyover 157 → 145 avg (11-19); one spike to 163 on Moopanar Bridge |
 | Easy by default | ~80% of rides easy (HR 125–150), ~20% hard | Back on track since 11-07; 11-15 was a deliberate event |
 
 ## Rules
@@ -27,7 +27,8 @@ tags:
 - Pulling away from signals: spin up in an easy gear.
 - The day before a run: keep it 30–40 min and very easy.
 - Ride-then-run back to back ("brick" workouts) not yet. Runs need fresh legs.
-- Rides over 90 min: bring food (banana or dates). Red Bull isn't hydration; carry water.
+- Rides over ~75 min: eat at 45–60 min (banana or dates). Red Bull isn't hydration; carry water.
+- Rest days are rest days: at most 30 min at HR under 130.
 - Front and rear lights plus something reflective for early rides.
 
 ## Recurring mistakes (from US riding history)
@@ -41,6 +42,7 @@ tags:
 - **First truly easy rides in my history:** 11-07 (HR 131), 11-12 (HR 137, entirely Zone 2).
 - **11-14:** 72 min at HR 140 with no decoupling (first half ~16.5 km/h at 142, second half ~15.7 at 138). First evidence of aerobic durability.
 - **11-15 event:** 27 km at 19.8 km/h on the MTB at HR 162, matching old road-bike speeds at a similar HR (drafting likely helped).
+- **11-19:** 25 km at 19.7 km/h at HR 137 (~98% Zone 2). Event speed at 25 bpm lower HR; partly a stop-free route, but a big aerobic signal.
 
 ## Chennai ride log
 | Date | Ride | Distance | Moving time | Avg speed | Avg HR | Max HR |
@@ -49,6 +51,7 @@ tags:
 | 11-12 | First ride on Indian roads | 10.5 km | 40 min | 15.9 km/h | 137 | 154 |
 | 11-14 | First medium-distance ride | 20.3 km | 72 min | 17.0 km/h | 140 | 169 |
 | 11-15 | Thooral 25 (event) | 27.1 km | 82 min | 19.8 km/h | 162 | 182 |
+| 11-19 | 25 km Zone 2 | 24.9 km | 76 min | 19.7 km/h | 137 | 163 |
 
 ## Historical distance distribution (US, 38 rides)
 | Distance | Rides |

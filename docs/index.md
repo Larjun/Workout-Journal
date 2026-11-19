@@ -12,7 +12,7 @@ Sessions are analysed with Claude (using my Strava data) and written up here as 
 3. **Pacing:** never start faster than I finish. My default "own pace" is still too hard.
 
 ### Cycling: Zone 2 base on a restored 26" MTB
-1. **Weekly long ride:** ~70 min in Zone 2 (125–154 bpm) and growing ~10 min/week, toward 90–120 min.
+1. **Weekly long ride:** ~76 min in Zone 2 (125–154 bpm) and growing ~10 min/week, toward 90–120 min. Eat at 45–60 min on rides over ~75 min.
 2. **Climb control:** keep flyover and bridge peaks under ~155 by shifting down early and spinning.
 3. **Keep hard rides rare:** events are fine; don't let event effort (HR ~160+) become normal riding.
 
@@ -22,6 +22,7 @@ Details: [Running focus](focus/running.md) · [Cycling focus](focus/cycling.md) 
 
 | Date | Type | Session | Verdict |
 |---|---|---|---|
+| 2026-11-19 | Ride | [25 km Zone 2](sessions/2026/2026-11-19-ride.md) | Event speed at HR 137, 98% Zone 2; but it was a rest day |
 | 2026-11-18 | Run | [Continuous 3.75 km](sessions/2026/2026-11-18-run.md) | HR cap held (92% under 160, peak 166); cadence stuck at ~146 |
 | 2026-11-17 | Run | [Continuous 3 km](sessions/2026/2026-11-17-run.md) | First continuous 3 km; HR drifted to 170, extra hard 640 m home |
 | 2026-11-15 | Ride | [Race against Diabetes – Thooral 25](sessions/2026/2026-11-15-ride.md) | Event: 27 km hard (HR 162), very even pacing |
