@@ -2,7 +2,7 @@
 
 My running and cycling journal: each session's numbers, what went wrong, and what to fix next.
 
-**Read it here:** https://larjun.github.io/Workout-Journal/
+**Read it here:** https://workout.larjun.me/
 
 ## Structure
 
