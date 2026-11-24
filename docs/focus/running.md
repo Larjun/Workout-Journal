@@ -6,13 +6,13 @@ tags:
 
 # Running focus
 
-*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-18.*
+*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-24.*
 
 ## Context
 - Back to running after 3+ years off. Following the Runna "New To Running" plan (week 7 of 8 as of 2026-11-17).
 - Aerobically fitter than a true beginner (lifelong cyclist), but legs and calves aren't adapted to impact yet. Classic cyclist-turned-runner trap: the engine outruns the chassis.
 - Apple Watch VO2 max estimate ~31 (Nov 2026). Low for age; should rise quickly with consistent easy running.
-- HR zones (Strava): Z1 0–124 · Z2 125–154 · Z3 155–169 · Z4 170–184 · Z5 185+
+- HR zones (Strava): Z1 0–124 · Z2 125–154 · Z3 155–169 · Z4 170–184 · Z5 185+, **based on an assumed max HR of ~190**. Observed max is at least 199 (206–207 in a rain sprint on 11-24). With max ≈ 200: Z2 ~130–162, Z3 ~162–178. Update Strava's max HR to 200.
 
 ## Active goals
 | Goal | Target | Status |
@@ -53,6 +53,7 @@ tags:
 | 11-13 | 2 × 2 km | 11:06 → 11:39 | 142 | 170 | ~138 / 140 |
 | 11-17 | Continuous 3 km | 11:38 | 152 | 171 | ~146 |
 | 11-18 | Continuous 3.75 km (HR-capped) | 12:39 (incl. ~4.5 min walking) | 154 | 166 | ~146 |
+| 11-24 | Continuous 3.25 km (rain) | 12:45 | 151 | 186 (206 sprint home) | ~146 |
 
 ## Notes
 - Calves got sore on 11-06. Doing calf raises (3 × 15, three times a week). Stop running for sharp or localized pain.

@@ -22,6 +22,7 @@ Details: [Running focus](focus/running.md) · [Cycling focus](focus/cycling.md) 
 
 | Date | Type | Session | Verdict |
 |---|---|---|---|
+| 2026-11-24 | Run | [Continuous 3.25 km (rain)](sessions/2026/2026-11-24-run.md) | Zone 2 held for ~2.3 km, then Zone 3 and a sprint home to 206 bpm |
 | 2026-11-20 | Swim | [First swim test (pool)](sessions/2026/2026-11-20-swim.md) | Stroke fine; mostly single lengths with 1–3 min rests |
 | 2026-11-19 | Ride | [25 km Zone 2](sessions/2026/2026-11-19-ride.md) | Event speed at HR 137, 98% Zone 2; but it was a rest day |
 | 2026-11-18 | Run | [Continuous 3.75 km](sessions/2026/2026-11-18-run.md) | HR cap held (92% under 160, peak 166); cadence stuck at ~146 |
