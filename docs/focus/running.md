@@ -6,7 +6,7 @@ tags:
 
 # Running focus
 
-*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-24.*
+*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-26.*
 
 ## Context
 - Back to running after 3+ years off. Following the Runna "New To Running" plan (week 7 of 8 as of 2026-11-17).
@@ -36,6 +36,9 @@ tags:
 3. **HR drift in the last km.** Steady pace, but HR rises ~20–25 bpm (11-11, 11-17). Partly heat and humidity, partly fitness.
 4. **Cadence lands below the target.** 140 BPM dubstep pulled cadence to ~140; aiming at 150 lands at ~146 (11-18). Set the metronome a few beats above the goal (152).
 
+## Current limiter
+- **Legs, not heart.** On 11-26 HR stayed flat (~155–161) while pace and legs faded in rep 2. Muscular endurance and impact tolerance lag the aerobic engine. Add leg strength twice a week and progress volume only when legs recover between runs.
+
 ## What's improving
 - **Average HR on easy sessions:** 164 (11-06) → 145 (11-11) → 142 (11-13) → 152 over a longer continuous 3 km (11-17).
 - **Time in Z4+:** ~21 min (11-06) → 5 s (11-11) → 0 (11-13).
@@ -54,6 +57,7 @@ tags:
 | 11-17 | Continuous 3 km | 11:38 | 152 | 171 | ~146 |
 | 11-18 | Continuous 3.75 km (HR-capped) | 12:39 (incl. ~4.5 min walking) | 154 | 166 | ~146 |
 | 11-24 | Continuous 3.25 km (rain) | 12:45 | 151 | 186 (206 sprint home) | ~146 |
+| 11-26 | 2 × 2.5 km (humid) | 12:32 → 13:37 | 155 / 158 | 167 | ~146 |
 
 ## Notes
 - Calves got sore on 11-06. Doing calf raises (3 × 15, three times a week). Stop running for sharp or localized pain.
