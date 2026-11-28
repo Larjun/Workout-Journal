@@ -34,7 +34,7 @@ tags:
 1. **Default pace is too fast.** With no target, I settle at ~9:00–10:30/km and HR climbs into the 170s–180s (11-03, 11-04, 11-06, the 11-17 run home).
 2. **Rep 1 faster than rep 2.** Better since 11-11, but crept back on 11-13 (11:06 → 11:39).
 3. **HR drift in the last km.** Steady pace, but HR rises ~20–25 bpm (11-11, 11-17). Partly heat and humidity, partly fitness.
-4. **Cadence lands below the target.** 140 BPM dubstep pulled cadence to ~140; aiming at 150 lands at ~146 (11-18). Set the metronome a few beats above the goal (152).
+4. **Cadence lands below the target.** 140 BPM dubstep pulled cadence to ~140; aiming at 150 lands at ~146 (11-18). Focusing on landing under the hips (11-28) made 150 feel forced while stride length stayed long. Fix: shorter steps plus arm-driven rhythm, 1-min blocks at 150–152 inside easy runs, and the metronome stepped 148 → 150 instead of jumping straight to the goal.
 
 ## Current limiter
 - **Legs, not heart.** On 11-26 HR stayed flat (~155–161) while pace and legs faded in rep 2. Muscular endurance and impact tolerance lag the aerobic engine. Add leg strength twice a week and progress volume only when legs recover between runs.
