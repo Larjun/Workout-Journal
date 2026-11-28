@@ -48,6 +48,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+hooks:
+  - hooks/gear.py
+
 plugins:
   - search
   - tags
@@ -70,6 +73,7 @@ nav:
   - Focus:
       - Running: focus/running.md
       - Cycling: focus/cycling.md
+  - Gear: gear/index.md
   - Sessions:
       - 2026-11-28 · Run · Continuous 4.25 km: sessions/2026/2026-11-28-run.md
       - 2026-11-26 · Run · 2 × 2.5 km: sessions/2026/2026-11-26-run.md

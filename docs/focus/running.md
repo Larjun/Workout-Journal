@@ -38,7 +38,7 @@ tags:
 
 ## Current limiter
 - **Legs, not heart.** On 11-26 HR stayed flat (~155–161) while pace and legs faded in rep 2. Muscular endurance and impact tolerance lag the aerobic engine. Add leg strength twice a week and progress volume only when legs recover between runs.
-- **Shoes:** current knit lifestyle trainers are worn (compressed midsole, bare foam outsole, no firm heel counter). Feet struggled on 11-28. Replace with proper neutral running shoes before week 9.
+- **Shoes:** the Puma FuzionFit+ were worn out (compressed midsole, worn outsole, soft heel counter), and feet struggled on 11-28. **Replaced 11-28 with the Nike Winflo 12** (see [Gear](../gear/index.md)). Watch whether feet hold up better in week 9.
 
 ## What's improving
 - **Average HR on easy sessions:** 164 (11-06) → 145 (11-11) → 142 (11-13) → 152 over a longer continuous 3 km (11-17).

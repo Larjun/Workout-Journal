@@ -65,7 +65,9 @@ tags:
 
 Average 23.7 km, median 22.8 km. Goal: shift this curve right with easy rides, not hard ones.
 
-## Bike notes (26" MTB)
+## Bike notes (26" MTB · Draco)
+Full gear list, including the new road bike (Naos): [Gear](../gear/index.md).
+
 - **Lost the bottle cage on 11-12.** Bolts are backing out. Check every bolt (stem, seatpost, saddle clamp, brakes, cage mounts) and use threadlocker. Replace the cage before long rides.
 - **Saddle height:** slight knee bend at the bottom of the pedal stroke.
 - **Planned:** slick tyres 26 × 1.25–1.5" (~32–38 mm), budget under ₹2k. Considering aero bars for longer road rides.

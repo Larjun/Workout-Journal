@@ -16,7 +16,7 @@ Sessions are analysed with Claude (using my Strava data) and written up here as 
 2. **Climb control:** keep flyover and bridge peaks under ~155 by shifting down early and spinning.
 3. **Keep hard rides rare:** events are fine; don't let event effort (HR ~160+) become normal riding.
 
-Details: [Running focus](focus/running.md) · [Cycling focus](focus/cycling.md) · [Browse by tag](tags.md)
+Details: [Running focus](focus/running.md) · [Cycling focus](focus/cycling.md) · [Gear](gear/index.md) · [Browse by tag](tags.md)
 
 ## Session index
 
@@ -47,6 +47,7 @@ Weekly reviews: [2026-W46](weekly/2026-W46.md) · [2026-W45](weekly/2026-W45.md)
 ---
 date: YYYY-MM-DD
 type: run | ride
+gear: winflo-12   # ID from the Gear page
 tags: [run, runna]
 distance_km: 0.0
 avg_hr: 0
