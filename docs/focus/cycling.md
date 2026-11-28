@@ -65,7 +65,7 @@ tags:
 
 Average 23.7 km, median 22.8 km. Goal: shift this curve right with easy rides, not hard ones.
 
-## Bike notes (26" MTB · Draco)
+## Bike notes (Draco · Cosmic Eldorado 1.0L, 26" MTB)
 Full gear list, including the new road bike (Naos, a Triban RC520): [Gear](../gear/index.md).
 
 - **Lost the bottle cage on 11-12.** Bolts are backing out. Check every bolt (stem, seatpost, saddle clamp, brakes, cage mounts) and use threadlocker. Replace the cage before long rides.

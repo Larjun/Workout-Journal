@@ -1,6 +1,6 @@
 # Gear
 
-What I train in, how far it's gone, and when to replace it. Each session's front matter has a `gear:` field with one of the IDs below, and the totals table is rebuilt from those fields every time the site builds.
+The bikes are named after stars. What I train in, how far it's gone, and when to replace it. Each session's front matter has a `gear:` field with one of the IDs below, and the totals table is rebuilt from those fields every time the site builds.
 
 *Last updated 2026-11-28.*
 
@@ -32,12 +32,15 @@ What I train in, how far it's gone, and when to replace it. Each session's front
 
 ### Naos · Triban RC520 · `naos` {#naos}
 - **Bike:** Decathlon Triban RC520, size S
+- **Name:** after Naos (Zeta Puppis), a hot blue supergiant star in the constellation Puppis
 - **Status:** active, new
 - **Weight:** 12 kg in Strava, which includes about 1 kg of added gear (so roughly 11 kg for the bike itself)
 - **Use:** longer road rides and Zone 2 base
 - **Fit:** check saddle height and reach on the first few rides; the last road bike hurt my back
 
-### Draco · 26" MTB · `draco` {#draco}
+### Draco · Cosmic Eldorado 1.0L · `draco` {#draco}
+- **Bike:** Cosmic Eldorado 1.0L, green, 26" MTB
+- **Name:** after WD J1330+6435, a greenish white dwarf in the constellation Draco
 - **Status:** active
 - **Strava distance:** 92.2 km · **weight:** 15 kg
 - **History:** restored after sitting abandoned for 7 years. Every ride from 2026-11-07 to 2026-11-19.
