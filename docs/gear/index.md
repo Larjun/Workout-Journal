@@ -1,6 +1,6 @@
 # Gear
 
-The bikes are named after stars. What I train in, how far it's gone, and when to replace it. Each session's front matter has a `gear:` field with one of the IDs below, and the totals table is rebuilt from those fields every time the site builds.
+Draco and Naos are named after stars. What I train in, how far it's gone, and when to replace it. Each session's front matter has a `gear:` field with one of the IDs below, and the totals table is rebuilt from those fields every time the site builds.
 
 *Last updated 2026-11-28.*
 
