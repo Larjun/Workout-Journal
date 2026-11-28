@@ -22,6 +22,7 @@ Details: [Running focus](focus/running.md) · [Cycling focus](focus/cycling.md) 
 
 | Date | Type | Session | Verdict |
 |---|---|---|---|
+| 2026-11-28 | Run | [Continuous 4.25 km](sessions/2026/2026-11-28-run.md) | Longest continuous run: faster and lower HR than 3.75 km on 11-18; feet were the limiter |
 | 2026-11-26 | Run | [2 × 2.5 km](sessions/2026/2026-11-26-run.md) | Longest session yet (5 km running); HR flat, legs faded in rep 2 |
 | 2026-11-24 | Run | [Continuous 3.25 km (rain)](sessions/2026/2026-11-24-run.md) | Zone 2 held for ~2.3 km, then Zone 3 and a sprint home to 206 bpm |
 | 2026-11-20 | Swim | [First swim test (pool)](sessions/2026/2026-11-20-swim.md) | Stroke fine; mostly single lengths with 1–3 min rests |

@@ -6,7 +6,7 @@ tags:
 
 # Running focus
 
-*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-26.*
+*Living document: update goals, mistakes and progress as they change. Last updated 2026-11-28.*
 
 ## Context
 - Back to running after 3+ years off. Following the Runna "New To Running" plan (week 7 of 8 as of 2026-11-17).
@@ -38,11 +38,12 @@ tags:
 
 ## Current limiter
 - **Legs, not heart.** On 11-26 HR stayed flat (~155–161) while pace and legs faded in rep 2. Muscular endurance and impact tolerance lag the aerobic engine. Add leg strength twice a week and progress volume only when legs recover between runs.
+- **Shoes:** current knit lifestyle trainers are worn (compressed midsole, bare foam outsole, no firm heel counter). Feet struggled on 11-28. Replace with proper neutral running shoes before week 9.
 
 ## What's improving
 - **Average HR on easy sessions:** 164 (11-06) → 145 (11-11) → 142 (11-13) → 152 over a longer continuous 3 km (11-17).
 - **Time in Z4+:** ~21 min (11-06) → 5 s (11-11) → 0 (11-13).
-- **Continuous running:** 2 km at HR 162 / max 184 (11-03) → 3 km at HR 152 / max 171 (11-17) → 3.75 km at HR 154 / max 166 (11-18).
+- **Continuous running:** 2 km at HR 162 / max 184 (11-03) → 3 km at HR 152 / max 171 (11-17) → 3.75 km at HR 154 / max 166 (11-18) → 4.25 km at ~11:48/km, HR 150 (11-28).
 - **HR drift in continuous runs:** +25 bpm (11-17) → +12 bpm (11-18), by capping HR from the start.
 - **Cadence:** ~138–140 → ~146 in the main effort (11-17).
 
@@ -58,6 +59,7 @@ tags:
 | 11-18 | Continuous 3.75 km (HR-capped) | 12:39 (incl. ~4.5 min walking) | 154 | 166 | ~146 |
 | 11-24 | Continuous 3.25 km (rain) | 12:45 | 151 | 186 (206 sprint home) | ~146 |
 | 11-26 | 2 × 2.5 km (humid) | 12:32 → 13:37 | 155 / 158 | 167 | ~146 |
+| 11-28 | Continuous 4.25 km (humid) | 11:48 | 150 | 172 | ~146 |
 
 ## Notes
 - Calves got sore on 11-06. Doing calf raises (3 × 15, three times a week). Stop running for sharp or localized pain.
