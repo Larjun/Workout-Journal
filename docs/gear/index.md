@@ -30,9 +30,10 @@ What I train in, how far it's gone, and when to replace it. Each session's front
 
 ## Bikes
 
-### Naos · road bike · `naos` {#naos}
+### Naos · Triban RC520 · `naos` {#naos}
+- **Bike:** Decathlon Triban RC520, size S
 - **Status:** active, new
-- **Strava weight:** 12 kg
+- **Weight:** 12 kg in Strava, which includes about 1 kg of added gear (so roughly 11 kg for the bike itself)
 - **Use:** longer road rides and Zone 2 base
 - **Fit:** check saddle height and reach on the first few rides; the last road bike hurt my back
 
